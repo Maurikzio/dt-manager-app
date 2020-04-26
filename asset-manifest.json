@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dt-manager-app/static/css/main.73290347.chunk.css",
+    "main.js": "/dt-manager-app/static/js/main.ab5f50fd.chunk.js",
+    "main.js.map": "/dt-manager-app/static/js/main.ab5f50fd.chunk.js.map",
+    "runtime-main.js": "/dt-manager-app/static/js/runtime-main.fbaf9800.js",
+    "runtime-main.js.map": "/dt-manager-app/static/js/runtime-main.fbaf9800.js.map",
+    "static/js/2.ec4c31da.chunk.js": "/dt-manager-app/static/js/2.ec4c31da.chunk.js",
+    "static/js/2.ec4c31da.chunk.js.map": "/dt-manager-app/static/js/2.ec4c31da.chunk.js.map",
+    "index.html": "/dt-manager-app/index.html",
+    "precache-manifest.e21ea5bdb2b41ce28b59cd8efb84954a.js": "/dt-manager-app/precache-manifest.e21ea5bdb2b41ce28b59cd8efb84954a.js",
+    "service-worker.js": "/dt-manager-app/service-worker.js",
+    "static/css/main.73290347.chunk.css.map": "/dt-manager-app/static/css/main.73290347.chunk.css.map",
+    "static/js/2.ec4c31da.chunk.js.LICENSE.txt": "/dt-manager-app/static/js/2.ec4c31da.chunk.js.LICENSE.txt",
+    "static/media/luke-skywalker.png": "/dt-manager-app/static/media/luke-skywalker.fc727f87.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbaf9800.js",
+    "static/js/2.ec4c31da.chunk.js",
+    "static/css/main.73290347.chunk.css",
+    "static/js/main.ab5f50fd.chunk.js"
+  ]
+}
